@@ -1,0 +1,6 @@
+.include "macros/maclib.s"
+.include "helpers/main.s"
+.include "helpers/fill_array.s"
+.include "helpers/fill_b_array.s"
+.include "helpers/get_arr_size.s"
+.include "helpers/print_arr.s"
