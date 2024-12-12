@@ -1,0 +1,3 @@
+/Users/marcho/CLionProjects/idz4/cmake-build-debug/CMakeFiles/idz4.dir
+/Users/marcho/CLionProjects/idz4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcho/CLionProjects/idz4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
